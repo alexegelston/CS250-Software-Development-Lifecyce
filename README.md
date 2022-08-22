@@ -1,0 +1,3 @@
+# CS250-Software-Development-Lifecyce
+
+Taking user needs from user stories allows product owners to implement new features into the product backlog that can then be prioritized based on importance to the client and functionality. I hope that I am able to approach most if not all future development projects with an aile methodology. An agile approach allows the most freedom to change development before the product deadline. Being a good team member in software development means apporpriate and effective communication to express team requirments and dependencies. Being able to convey what you need for your development is essentail to creating a smooth development process.
